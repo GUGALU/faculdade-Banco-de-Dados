@@ -1,2 +1,2 @@
 # faculdade-Banco-de-Dados
-Desafios propostos em aula.
+Scripts e desafios propostos em aula.
